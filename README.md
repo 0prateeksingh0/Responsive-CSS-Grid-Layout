@@ -1,1 +1,1 @@
-# Responsive-CSS-Grid-Layout
+# learn-grid-the-easy-way
